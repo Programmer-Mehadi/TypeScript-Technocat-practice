@@ -1,0 +1,3 @@
+node_modules/
+node_modules
+npx ts-node-dev --respawn ./src/module4/object.ts
